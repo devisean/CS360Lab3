@@ -1,0 +1,106 @@
+.menu a{
+    font-size: 30px;
+    color: inherit;
+    text-decoration: none;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#current a{
+    background-color: white;
+    color: black;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+center{
+    padding: 100px;
+}
+
+.form-group{
+    width: 50%;
+    color: black;
+    font-size: 20px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    border-color: black;   
+}
+
+h1{
+    text-align: center;
+    padding: 25px;
+    background-color: lightgreen;
+}
+
+h2{
+    text-align: center;
+    padding: 25px;
+    font-size: 35px;
+}
+
+div.row{
+    height: 800px;
+}
+
+div.col-md{
+    background-color: white;
+    color: black;
+    margin-left: 200px;
+}
+
+div.col-md-auto{
+    background-color: black;
+    color: white;
+    position: fixed;
+    height:900px;
+    top: 0;
+}
+
+.col-md-3{
+    background-color: lightblue;
+    color: black;
+    margin: 50px;
+    height: 750px;
+    font-size: 24px;
+}
+
+.col-md-4{
+    background-color: black;
+    padding: 100px;
+}
+
+button{
+    background: black;
+}
+
+#photo{
+    margin-top: 150px;
+    padding: 100px;
+}
+
+.socials {
+  padding: 20px;
+  margin: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+#welcome{
+    font-size: 24px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#blog{
+    background-color: lightblue;
+    height: 600px;
+}
+
+#photos{
+    background-color: white;
+    height: 200px;
+}
+
+#photo{
+    margin-top: 200px;
+}
